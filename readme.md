@@ -1,0 +1,1 @@
+This is Shinjimx first GIT project!
